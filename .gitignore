@@ -1,0 +1,5 @@
+
+*.json
+*.vsidx
+*.sqlite
+.vs/OpenCV-Face-Recognition/v17/.wsuo
